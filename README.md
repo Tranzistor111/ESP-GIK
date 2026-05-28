@@ -29,5 +29,6 @@ sketch_may24b.ino -> адрес 0x10000
 
 Распиновка платы esp32 s3 super mini: 
 
+<img width="682" height="690" alt="SghjfHJ3V2-682" src="https://github.com/user-attachments/assets/728993fb-9f0f-4c7b-8c48-faf6d86a7a1a" />
 
 
