@@ -36,6 +36,11 @@ sketch_may24b.ino -> адрес 0x10000
 <img width="682" height="690" alt="SghjfHJ3V2-682" src="https://github.com/user-attachments/assets/728993fb-9f0f-4c7b-8c48-faf6d86a7a1a" />
 
 Схема устройства:
+1) OLED 1.3
+   GND - GND
+   VCC - +5V
+   SCL - 7
+   SDA - 6
 
 Мой тик ток канал: https://www.tiktok.com/@tranzistor_misha?_r=1&_t=ZS-96k07YpY1MO 
 
