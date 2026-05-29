@@ -37,6 +37,7 @@ sketch_may24b.ino -> адрес 0x10000
 
 Схема устройства:
 1) OLED 1.3
+
    GND - GND
    VCC - +5V
    SCL - 7
