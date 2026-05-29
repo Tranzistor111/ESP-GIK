@@ -37,8 +37,6 @@ sketch_may24b.ino -> адрес 0x10000
 
 Схема устройства:
 
-<img width="889" height="391" alt="WhatsApp Image 2026-05-28 at 18 07 50" src="https://github.com/user-attachments/assets/41b930e2-46c2-408f-98d9-9abe5dc2232d" />
-
 Мой тик ток канал: https://www.tiktok.com/@tranzistor_misha?_r=1&_t=ZS-96k07YpY1MO 
 
 
