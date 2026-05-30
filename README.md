@@ -42,7 +42,7 @@ ESP-GIK - устройство для пентеста и кибербезопа
 
    WEB MENU
 
-   TIME(STOPWATCH ⏱ , TIMER ⏲)
+   TIME (STOPWATCH ⏱ , TIMER ⏲)
 
 Компоненты для сборки:
 1) esp32 s3 super mini (1 шт.) .
