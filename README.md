@@ -90,6 +90,9 @@ sketch_may24b.ino -> адрес 0x10000
 <img width="682" height="690" alt="SghjfHJ3V2-682" src="https://github.com/user-attachments/assets/728993fb-9f0f-4c7b-8c48-faf6d86a7a1a" />
 
 Схема устройства:
+
+<img width="1080" height="861" alt="WhatsApp Image 2026-05-30 at 18 12 51" src="https://github.com/user-attachments/assets/275184bb-8ad8-4313-bed8-b83753826081" />
+
 1) OLED 1.3:
 
    GND - GND
