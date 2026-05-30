@@ -1,5 +1,5 @@
 # ESP-GIK
-ESP-GIK - устройство для пентеста и кибербезопасности ! 
+ESP-GIK - прошивка для пентеста и кибер безопасности , созданная для платформы esp32 имеющяя компактный интерфейс для дисплея и кнопок . Имеет встроенную модульную систему (WI-FI , BLUETOOTH , NRF24 (2.4G) , IR) .
 
 <img width="1458" height="1855" alt="WhatsApp Image 2026-05-30 at 09 43 34" src="https://github.com/user-attachments/assets/9eaa42ec-a1b6-4fb1-ac5a-c5e4fd557438" />
 
