@@ -5,6 +5,45 @@ ESP-GIK - устройство для пентеста и кибербезопа
 
 Используйте этот код с остарожностью ! Автор не несёт ответвенность за ваши действия !
 
+Функции:
+1) WI-FI MENU:
+
+   SCAN
+
+   PACET MONITOR
+
+   ATTACK
+
+2) BLUETOOTH MENU:
+
+   SCAN
+
+   GET-DEVICE-INFO
+
+3) NRF24 MENU:
+
+   JAMMER 2.4G
+
+   SPECTRUM 2.4G
+
+4) IR MENU:
+
+   IR JAMMER
+
+   TV-B-GONE
+
+5) MAIN MENU:
+
+   VERSION
+
+   CREATOR
+
+   CHANNEL
+
+   WEB MENU
+
+   TIME(STOPWATCH ⏱ , TIMER ⏲)
+
 Компоненты для сборки:
 1) esp32 s3 super mini (1 шт.) .
 2) Oled display 1.3 , драйвер SH1106 (1 шт.) .
