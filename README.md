@@ -61,6 +61,10 @@ ESP-GIK - устройство для пентеста и кибербезопа
 Если не хотите сами собирать схему для IR TRANSMITTERA , то можно просто 
 использовать для этого готовый модуль с AliExpress .
 
+После сборки на макетной плате у вас должно получится что то похожее на это:
+
+<img width="1080" height="1210" alt="WhatsApp Image 2026-05-30 at 12 37 13" src="https://github.com/user-attachments/assets/5584d16a-6270-4f3a-ab38-7bcbed9d2bc5" />
+
 Как загрузить прошивку:
 1) Перейдите во вкладку "Releases" и скачайте там три файла: 'bootloader' , 'partitions' и 'firmware.bin' .
 2) Скачайте и установите программу [ESP Flash Dowload Tool] (https://espressif.com) .
