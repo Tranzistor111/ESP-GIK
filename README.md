@@ -10,7 +10,7 @@ ESP-GIK - прошивка для пентеста и кибер безопас�
 
    SCAN
 
-   PACET MONITOR
+   PACKET MONITOR
 
    ATTACK
 
