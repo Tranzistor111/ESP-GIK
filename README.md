@@ -94,6 +94,8 @@ ESP-GIK - прошивка для пентеста и кибербезопасн
 
 <img width="1080" height="1210" alt="WhatsApp Image 2026-05-30 at 12 37 13" src="https://github.com/user-attachments/assets/5584d16a-6270-4f3a-ab38-7bcbed9d2bc5" />
 
+---
+
 Как загрузить прошивку 1 способ:
 1) Перейдите во вкладку "Releases" и скачайте там три файла: 'bootloader' , 'partitions' и 'firmware.bin' .
 2) Скачайте и установите программу [ESP Flash Dowload Tool] (https://espressif.com) .
@@ -122,9 +124,13 @@ sketch_may24b.ino -> адрес 0x10000
 
 Поздравляю вы только , что прошили ESP-GIK !
 
-Распиновка платы esp32 s3 super mini: 
+---
+
+Распиновка платы esp32 s3 super mini:
 
 <img width="682" height="690" alt="SghjfHJ3V2-682" src="https://github.com/user-attachments/assets/728993fb-9f0f-4c7b-8c48-faf6d86a7a1a" />
+
+---
 
 Схема устройства:
 
@@ -180,7 +186,9 @@ sketch_may24b.ino -> адрес 0x10000
 
    OUT+ - КНОПКА ВКЛ/ВЫКЛ - +5V
 
-   OUT- - GND 
+   OUT- - GND
+
+---
 
 Мой тик ток канал: https://www.tiktok.com/@tranzistor_misha?_r=1&_t=ZS-96k07YpY1MO 
 
