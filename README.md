@@ -71,6 +71,8 @@ ESP-GIK - прошивка для пентеста и кибербезопасн
 
    TIME (STOPWATCH ⏱ , TIMER ⏲)
 
+---
+
 Компоненты для сборки:
 1) esp32 s3 super mini (1 шт.) .
 2) Oled display 1.3 , драйвер SH1106 (1 шт.) .
